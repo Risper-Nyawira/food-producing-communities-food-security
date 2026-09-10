@@ -1,0 +1,12 @@
+# Original downloaded data can be large and is available from the documented sources.
+data/raw/
+
+# Local database and DB Browser settings.
+sql/*.db
+sql/*.sqbpro
+
+# Jupyter checkpoints and Python cache.
+.ipynb_checkpoints/
+__pycache__/
+
+# Keep the reproducible processed CSV, notebook, documentation, charts, tables, and Power BI file.
