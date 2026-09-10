@@ -22,7 +22,7 @@ National maize production continued throughout the period, yet the prevalence of
 
 - `data/raw` contains the original downloads and is not uploaded to GitHub.
 - `data/processed` contains the cleaned annual analysis dataset and Power BI dashboard.
-- `sql` contains the SQLite database and DB Browser project file.
+- `sql` is kept locally and contains the SQLite database and DB Browser project file; these files are not uploaded.
 - `notebooks` contains the Python analysis notebook.
 - `outputs` contains Python charts and summary tables.
 - `docs` contains data notes and the conclusions and recommendations.
