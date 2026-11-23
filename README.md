@@ -6,17 +6,17 @@ Why can food-producing communities still experience food insecurity?
 
 ## Project summary
 
-This project brings together annual maize production, yield, cultivated area, maize retail prices, climate indicators, and national food insecurity data for Kenya. It tests the idea that producing food is necessary, but does not by itself guarantee that households can afford, access, or consistently obtain a nutritious diet.
+This project brings together annual maize production, yield, cultivated area, maize retail prices, climate indicators and national food insecurity data for Kenya. It tests the idea that producing food is necessary, but does not by itself guarantee that households can afford, access, or consistently obtain a nutritious diet.
 
 ## Tools used
 
 - SQL and SQLite for preparing the annual analysis table
 - Power BI for interactive dashboarding
-- Python (pandas, matplotlib, seaborn) for data checks, trend charts, and correlations
+- Python (pandas, matplotlib, seaborn) for data checks, trend charts and correlations
 
 ## Main finding
 
-National maize production continued throughout the period, yet the prevalence of moderate or severe food insecurity rose from 50.7% for the 2014-2016 rolling period to 72.8% for 2021-2023. This supports the conclusion that food production alone is not enough. Affordability, price volatility, climate stress, incomes, storage, market access, and how food is distributed also matter.
+National maize production continued throughout the period, yet the prevalence of moderate or severe food insecurity rose from 50.7% for the 2014-2016 rolling period to 72.8% for 2021-2023. This supports the conclusion that food production alone is not enough. Affordability, price volatility, climate stress, incomes, storage, market access and how food is distributed also matter.
 
 ## Project structure
 
