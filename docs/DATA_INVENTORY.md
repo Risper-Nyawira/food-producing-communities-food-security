@@ -18,15 +18,6 @@ Why can food-producing communities still experience food insecurity?
 | `data/raw/worldbank_kenya_heat_index_35.csv` | Climate | Heat stress indicator |
 | `data/raw/worldbank_kenya_socioeconomic_context.csv` | Socioeconomic context | Population, rural population, GDP per capita, inflation, poverty, agricultural employment and food imports |
 
-## Suggested First Analysis
-
-Start with maize as the pilot commodity.
-
-1. Use SQL to create yearly maize production, yield and area harvested.
-2. Use SQL to create yearly maize retail price.
-3. Join production, prices, climate and food security by year.
-4. Use Power BI for dashboarding.
-5. Use Python for trends, correlations, lag analysis and simple regression.
 
 ## Sources
 
